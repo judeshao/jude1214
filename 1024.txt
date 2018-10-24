@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+ 
+  <head>
+    <title>Dating1024</title>
+  </head>
+ 
+  <body>
+    <h1>今天是什么日子？</h1>
+      <p>10月24日<b>程序员节</b>！</p>
+     
+    <h2>当程序员是一种怎样的体验？</h2>
+      <p>当程序员挺轻松的，就是有点<b>头冷……</b></p>
+      
+    <h3>你最喜欢的人是谁？</h3>
+      <p><a href="https://zh.wikipedia.org/wiki/%E9%9B%8D%E6%AD%A3%E5%B8%9D#/media/File:Emperor_Yongzheng.PNG">点击查看我最喜欢的人.com </a></p> 
+  </body>
+
+</html>
+
